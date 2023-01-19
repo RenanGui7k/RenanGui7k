@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RenanGui7k
 - 👀 I’m interested in Python, C++, HTML5, JavaScript e MySQL
-- 🌱 I’m currently learning Python e MySQL
+- 🌱 I’m currently learning HTML5/CSS and Java for games
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://www.linkedin.com/in/renan-caue-guimarães-dos-santos-3ab2671b9/
 
